@@ -1,0 +1,12 @@
+{
+  "posts":
+  [
+    {
+      "photo": "https://via.placeholder.com/600/771796",
+      "caption": "pictune nr 1",
+      "latitude": 52.2,
+      "longitude": 21.0,
+      "author": 1
+    }
+  ]
+}
