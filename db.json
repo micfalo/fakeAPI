@@ -1,6 +1,5 @@
 {
-  "posts":
-  [
+  "posts":[
     {
       "photo": "https://via.placeholder.com/600/771796",
       "caption": "pictune nr 1",
@@ -9,11 +8,10 @@
       "author": 1
     }
   ],
-  "users":
-  [
+  "users":[
     {
-      "name":"string",
-      "surname":"string
+      "name":"Helen",
+      "surname":"Owo"
     }
   ]
 }
