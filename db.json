@@ -99,7 +99,7 @@
         {
       "id": 13,
       "photo": "https://via.placeholder.com/600/771796",
-      "caption": "Picture nr 13\Moscow",
+      "caption": "Picture nr 13\nMoscow",
       "latitude": 55.45,
       "longitude": 37.36,
       "author": 1
@@ -162,10 +162,25 @@
     }
   ],
   "users":[
-    {
+      {
       "id": 1,
       "name":"Helen",
-      "surname":"Owo"
+      "surname":"Musk"
+    },
+      {
+      "id": 2,
+      "name":"Piotr",
+      "surname":"Podlaski"
+    },
+      {
+      "id": 3,
+      "name":"Tanika",
+      "surname":"Volvo"
+    },
+      {
+      "id": 4,
+      "name":"Ido",
+      "surname":"Harasho"
     }
   ]
 }
