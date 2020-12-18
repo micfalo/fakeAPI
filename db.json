@@ -3,9 +3,161 @@
     {
       "id": 1,
       "photo": "https://via.placeholder.com/600/771796",
-      "caption": "pictune nr 1",
-      "latitude": 52.2,
+      "caption": "Picture nr 1\nWarszawa",
+      "latitude": 52.14,
       "longitude": 21.0,
+      "author": 1
+    },
+    {
+      "id": 2,
+      "photo": "https://via.placeholder.com/600/771796",
+      "caption": "Picture nr 2\nAdelaide",
+      "latitude": -34.55,
+      "longitude": 138.36,
+      "author": 1
+    },
+        {
+      "id": 3,
+      "photo": "https://via.placeholder.com/600/771796",
+      "caption": "Picture nr 3\nMexico",
+      "latitude": 19.26,
+      "longitude": -99.7,
+      "author": 1
+    },
+        {
+      "id": 4,
+      "photo": "https://via.placeholder.com/600/771796",
+      "caption": "Picture nr 4\nParis",
+      "latitude": 48.48,
+      "longitude": 2.2,
+      "author": 1
+    },
+        {
+      "id": 5,
+      "photo": "https://via.placeholder.com/600/771796",
+      "caption": "Picture nr 5\nNagasaki",
+      "latitude": 32.48,
+      "longitude": 129.57,
+      "author": 1
+    },
+        {
+      "id": 6,
+      "photo": "https://via.placeholder.com/600/771796",
+      "caption": "Picture nr 6\nHong Kong",
+      "latitude": 22.2,
+      "longitude": 114.11,
+      "author": 1
+    },
+        {
+      "id": 7,
+      "photo": "https://via.placeholder.com/600/771796",
+      "caption": "Picture nr 7\nDublin",
+      "latitude": 53.2,
+      "longitude": -6.15,
+      "author": 1
+    },
+        {
+      "id": 8,
+      "photo": "https://via.placeholder.com/600/771796",
+      "caption": "Picture nr 8\nLondon",
+      "latitude": 51.32,
+      "longitude": -0.5,
+      "author": 1
+    },
+        {
+      "id": 9,
+      "photo": "https://via.placeholder.com/600/771796",
+      "caption": "Picture nr 9\nOslo",
+      "latitude": 59.57,
+      "longitude": 10.42,
+      "author": 1
+    },
+        {
+      "id": 10,
+      "photo": "https://via.placeholder.com/600/771796",
+      "caption": "Picture nr 10\nSydney",
+      "latitude": -34.0,
+      "longitude": 151.0,
+      "author": 1
+    },
+        {
+      "id": 11,
+      "photo": "https://via.placeholder.com/600/771796",
+      "caption": "Picture nr 11\nTokyo",
+      "latitude": 35.4,
+      "longitude": 139.45,
+      "author": 1
+    },
+        {
+      "id": 12,
+      "photo": "https://via.placeholder.com/600/771796",
+      "caption": "Picture nr 12\nWarszawa",
+      "latitude": 52.14,
+      "longitude": 21.0,
+      "author": 1
+    },
+        {
+      "id": 13,
+      "photo": "https://via.placeholder.com/600/771796",
+      "caption": "Picture nr 13\Moscow",
+      "latitude": 55.45,
+      "longitude": 37.36,
+      "author": 1
+    },
+        {
+      "id": 14,
+      "photo": "https://via.placeholder.com/600/771796",
+      "caption": "Picture nr 14\nSydney",
+      "latitude": -34.0,
+      "longitude": 151.0,
+      "author": 1
+    },
+        {
+      "id": 15,
+      "photo": "https://via.placeholder.com/600/771796",
+      "caption": "Picture nr 15\nHong Kong",
+      "latitude": 22.2,
+      "longitude": 114.11,
+      "author": 1
+    },
+        {
+      "id": 16,
+      "photo": "https://via.placeholder.com/600/771796",
+      "caption": "Picture nr 16\nRome",
+      "latitude": 41.54,
+      "longitude": 12.27,
+      "author": 1
+    },
+        {
+      "id": 17,
+      "photo": "https://via.placeholder.com/600/771796",
+      "caption": "Picture nr 17\nMexico",
+      "latitude": 19.26,
+      "longitude": -99.7,
+      "author": 1
+    },
+        {
+      "id": 18,
+      "photo": "https://via.placeholder.com/600/771796",
+      "caption": "Picture nr 18\nWarszawa",
+      "latitude": 52.14,
+      "longitude": 21.0,
+      "author": 1
+    },
+        {
+      "id": 19,
+      "photo": "https://via.placeholder.com/600/771796",
+      "caption": "Picture nr 19\nTokyo",
+      "latitude": 35.4,
+      "longitude": 139.45,
+      "author": 1
+    },
+        {
+      "id": 20,
+      "photo": "https://via.placeholder.com/600/771796",
+      "caption": "Picture nr 20\nParis",
+      "latitude": 48.48,
+      "longitude": 2.2,
       "author": 1
     }
   ],
