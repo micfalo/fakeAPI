@@ -11,7 +11,7 @@
     },
     {
       "id": 2,
-      "photo": "http://via.placeholder.com/360x720.jpg/2323AA/F0F0F0?text=Adelaide",
+      "photo": "https://www.maynepharma.com/media/2135/adelaide.png",
       "thumbnail":  "http://via.placeholder.com/36x64.jpg/654321/F0F0F0?text=Adelaide",
       "caption": "Picture nr 2\nAdelaide",
       "latitude": -34.55,
@@ -20,7 +20,7 @@
     },
         {
       "id": 3,
-      "photo": "http://via.placeholder.com/360x720.jpg/FF8000/101010?text=Mexico",
+      "photo": "https://blog.assets.triptrivia.com/2020/01/15-5-WitR-shutter.jpg",
       "thumbnail":  "http://via.placeholder.com/36x64.jpg/FF8000/101010?text=Mexico",
       "caption": "Picture nr 3\nMexico",
       "latitude": 19.26,
@@ -29,7 +29,7 @@
     },
         {
       "id": 4,
-      "photo": "http://via.placeholder.com/360x720.jpg/33FFFF/101010?text=Paris",
+      "photo": "https://omegatourism.az/uploads/tours/omegatourism_az_1553586010.jpg",
       "thumbnail":  "http://via.placeholder.com/36x64.jpg/33FFFF/101010?text=Paris",
       "caption": "Picture nr 4\nParis",
       "latitude": 48.48,
@@ -38,7 +38,7 @@
     },
         {
       "id": 5,
-      "photo": "http://via.placeholder.com/360x720.jpg/DD00DD/101010?text=Nagasaki",
+      "photo": "https://qph.fs.quoracdn.net/main-qimg-5184f02ba5ac68b77add9a1a4c3e7e54",
       "thumbnail":  "http://via.placeholder.com/36x64.jpg/DD00DD/101010?text=Nagasaki",
       "caption": "Picture nr 5\nNagasaki",
       "latitude": 32.48,
@@ -47,7 +47,7 @@
     },
         {
       "id": 6,
-      "photo": "http://via.placeholder.com/360x720.jpg/D0DC28/101010?text=Hong+Kong",
+      "photo": "https://www.fodors.com/assets/destinations/54468/boat-harbor-hong-kong-china-1_980x650.jpg",
       "thumbnail":  "http://via.placeholder.com/36x64.jpg/D0DC28/101010?text=Hong+Kong",
       "caption": "Picture nr 6\nHong Kong",
       "latitude": 22.2,
@@ -56,7 +56,7 @@
     },
         {
       "id": 7,
-      "photo": "http://via.placeholder.com/360x720.jpg/336600/F0F0F0?text=Dublin",
+      "photo": "https://www.corporatecare.ie/wp-content/uploads/2020/09/hapenny-bridge-dublin.jpg",
       "thumbnail":  "http://via.placeholder.com/36x64.jpg/336600/F0F0F0?text=Dublin",
       "caption": "Picture nr 7\nDublin",
       "latitude": 53.2,
@@ -65,7 +65,7 @@
     },
         {
       "id": 8,
-      "photo": "http://via.placeholder.com/360x720.jpg/A0A0A0/101010?text=London",
+      "photo": "https://cdn.londonandpartners.com/assets/73295-640x360-london-skyline-ns.jpg",
       "thumbnail":  "http://via.placeholder.com/36x64.jpg/A0A0A0/101010?text=London",
       "caption": "Picture nr 8\nLondon",
       "latitude": 51.32,
@@ -74,7 +74,7 @@
     },
         {
       "id": 9,
-      "photo": "http://via.placeholder.com/360x720.jpg/DDFFFF/101010?text=Oslo",
+      "photo": "https://www.dw.com/image/46306288_401.jpg",
       "thumbnail":  "http://via.placeholder.com/36x64.jpg/DDFFFF/101010?text=Oslo",
       "caption": "Picture nr 9\nOslo",
       "latitude": 59.57,
@@ -83,7 +83,7 @@
     },
         {
       "id": 10,
-      "photo": "http://via.placeholder.com/360x720.jpg/770000/F0F0F0?text=Sydney",
+      "photo": "https://img2.10bestmedia.com/Images/Photos/379605/GettyImages-1066998508_54_990x660.jpg",
       "thumbnail":  "http://via.placeholder.com/36x64.jpg/770000/F0F0F0?text=Sydney",
       "caption": "Picture nr 10\nSydney",
       "latitude": -34.0,
@@ -92,7 +92,7 @@
     },
         {
       "id": 11,
-      "photo": "http://via.placeholder.com/360x720.jpg/FF007F/F0F0F0?text=Tokyo",
+      "photo": "https://s07.s3c.es/imag/_v0/940x627/3/4/4/japon.jpg",
       "thumbnail":  "http://via.placeholder.com/36x64.jpg/FF007F/F0F0F0?text=Tokyo",
       "caption": "Picture nr 11\nTokyo",
       "latitude": 35.4,
@@ -101,7 +101,7 @@
     },
         {
       "id": 12,
-      "photo": "http://via.placeholder.com/360x720.jpg/2323AA/F0F0F0?text=Warszawa",
+      "photo": "https://cache-graphicslib.viator.com/graphicslib/page-images/742x525/186892_Viator_Thinkstock_145989.jpg",
       "thumbnail":  "http://via.placeholder.com/36x64.jpg/2323AA/F0F0F0?text=Warszawa",
       "caption": "Picture nr 12\nWarszawa",
       "latitude": 52.14,
@@ -110,7 +110,7 @@
     },
         {
       "id": 13,
-      "photo": "http://via.placeholder.com/360x720.jpg/3399FF/F0F0F0?text=Moscow",
+      "photo": "https://cms.hostelworld.com/hwblog/wp-content/uploads/sites/2/2019/11/3-days-in-Moscow-@nikolayv-678x875.jpg",
       "thumbnail":  "http://via.placeholder.com/36x64.jpg/3399FF/F0F0F0?text=Moscow",
       "caption": "Picture nr 13\nMoscow",
       "latitude": 55.45,
@@ -119,7 +119,7 @@
     },
         {
       "id": 14,
-      "photo": "http://via.placeholder.com/360x720.jpg/770000/F0F0F0?text=Sydney",
+      "photo": "https://www.australia.com/content/australia/en/places/sydney-and-surrounds/guide-to-sydney/_jcr_content/hero/mobile.adapt.768.high.jpg",
       "thumbnail":  "http://via.placeholder.com/36x64.jpg/770000/F0F0F0?text=Sydney",
       "caption": "Picture nr 14\nSydney",
       "latitude": -34.0,
@@ -128,7 +128,7 @@
     },
         {
       "id": 15,
-      "photo": "http://via.placeholder.com/360x720.jpg/D0DC28/101010?text=Hong+Kong",
+      "photo": "https://i.pinimg.com/originals/bb/c0/64/bbc0642159be772b5762b31ccc4034aa.png",
       "thumbnail":  "http://via.placeholder.com/36x64.jpg/D0DC28/101010?text=Hong+Kong",
       "caption": "Picture nr 15\nHong Kong",
       "latitude": 22.2,
@@ -137,7 +137,7 @@
     },
         {
       "id": 16,
-      "photo": "http://via.placeholder.com/360x720.jpg/00CC00/101010?text=Rome",
+      "photo": "https://theromanguy.com/wp-content/uploads/Roman-Forum-780x420.jpg",
       "thumbnail":  "http://via.placeholder.com/36x64.jpg/00CC00/101010?text=Rome",
       "caption": "Picture nr 16\nRome",
       "latitude": 41.54,
@@ -146,7 +146,7 @@
     },
         {
       "id": 17,
-      "photo": "http://via.placeholder.com/360x720.jpg/FF8000/101010?text=Mexico",
+      "photo": "https://www.wdwinfo.com/wp-content/uploads/2018/09/mexico.png",
       "thumbnail":  "http://via.placeholder.com/36x64.jpg/FF8000/101010?text=Mexico",
       "caption": "Picture nr 17\nMexico",
       "latitude": 19.26,
@@ -155,7 +155,7 @@
     },
         {
       "id": 18,
-      "photo": "http://via.placeholder.com/360x720.jpg/2323AA/F0F0F0?text=Warszawa",
+      "photo": "https://www.likealocalguide.com/media/cache/b2/64/b264f948b5aee785a0f04cf5db898d04.jpg",
       "thumbnail":  "http://via.placeholder.com/36x64.jpg/2323AA/F0F0F0?text=Warszawa",
       "caption": "Picture nr 18\nWarszawa",
       "latitude": 52.14,
@@ -164,7 +164,7 @@
     },
         {
       "id": 19,
-      "photo": "http://via.placeholder.com/360x720.jpg/FF007F/F0F0F0?text=Tokyo",
+      "photo": "https://tokyo.for91days.com/wp-content/uploads/sites/16/2017/04/Shibuya-Crossing-Tokyo--01-20140504-www.for91days.com-DSC00486.jpg",
       "thumbnail":  "http://via.placeholder.com/36x64.jpg/FF007F/F0F0F0?text=Tokyo",
       "caption": "Picture nr 19\nTokyo",
       "latitude": 35.4,
@@ -173,7 +173,7 @@
     },
         {
       "id": 20,
-      "photo": "http://via.placeholder.com/360x720.jpg/33FFFF/101010?text=Paris",
+      "photo": "https://about-france.com/photos5/paris-night3.jpg",
       "thumbnail":  "http://via.placeholder.com/36x64.jpg/33FFFF/101010?text=Paris",
       "caption": "Picture nr 20\nParis",
       "latitude": 48.48,
