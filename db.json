@@ -185,27 +185,32 @@
       {
       "id": 1,
       "name":"Helen",
-      "surname":"Musk"
+      "surname":"Musk",
+      "nick":"HelenM"
     },
       {
       "id": 2,
       "name":"Piotr",
-      "surname":"Podlaski"
+      "surname":"Podlaski",
+      "nick":"PioPL"
     },
       {
       "id": 3,
       "name":"Tanika",
-      "surname":"Volvo"
+      "surname":"Volvo",
+      "nick":"TanikaV"
     },
       {
       "id": 4,
       "name":"Ido",
-      "surname":"Harasho"
+      "surname":"Harasho",
+      "nick":"IdoHa"
     },
       {
       "id": 5,
       "name": "No",
-      "surname": "name"
+      "surname": "name",
+      "nick":"noname"
     }
   ]
 }
